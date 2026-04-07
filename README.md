@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tayyar</h1>
 <h3 align="center">A passionate Full-Stack Developer from World</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Salam;Men+öyrənirəm" alt="Typing" />
 
 - 🔭 I’m currently working on [YOD](https://yod.az/)
 
