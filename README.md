@@ -14,10 +14,6 @@
 
   <br><br>
 
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="50" alt="Telescope" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=System.greet(%22Hello%2C+World%22)%3B;Initializing+Interface...;Status%3A+Online" alt="Typing Greeting" />
-  </div>
 
   <br>
 
@@ -33,7 +29,6 @@
 
   <marquee behavior="scroll" direction="left" scrollamount="10">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,php,laravel,mysql,git,github&theme=dark" alt="Scrolling Skills" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,php,laravel,mysql,git,github&theme=dark" alt="Scrolling Skills Duplicate" />
   </marquee>
 
   <br>
