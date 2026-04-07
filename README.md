@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">, I'm Tayyar</h1>
 <h3 align="center"><a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=00FFFF&center=false&vCenter=true&width=900&lines=I+am+a+Full-Stack+Developer+who+is+always+open+to+learning+from+the+World..." alt="Typing Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=00FFFF&center=false&vCenter=true&width=1100&lines=I+am+a+Full-Stack+Developer+who+is+always+open+to+learning+from+the+World..." alt="Typing Text" />
 </a>
 </h3>
 
