@@ -4,17 +4,6 @@
 </a>
 </h3>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="45" alt="Telescope" />
-  &nbsp; 
-  <a href="https://yod.az/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1500&color=00FFFF&center=false&vCenter=true&width=800&lines=I%27m+currently+working+on+YOD;Building+something+amazing+with+YOD...;Bringing+innovations+to+life...;Focus%3A+The+YOD+Project" alt="YOD Project" />
-  </a>
-</div>
-
-<br>
-
 <div align="center">
   <a href="https://yod.az/" target="_blank">
     <img src="https://img.shields.io/badge/🏢_Current_Workspace-YOD_Company-00FFFF?style=for-the-badge&logo=rocket&logoColor=black&labelColor=111111" alt="YOD Company">
