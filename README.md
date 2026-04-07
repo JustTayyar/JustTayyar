@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tayyar</h1>
-<h3 align="center">A passionate Full-Stack Developer from World</h3>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Salam;Men+öyrənirəm" alt="Typing" />
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">, I'm Tayyar</h1>
+<h3 align="center"><a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=false&vCenter=true&width=900&lines=I+am+a+Full-Stack+Developer+who+is+always+open+to+learning+from+the+world..." alt="Typing Text" />
+</a>
+</h3>
+
 
 - 🔭 I’m currently working on [YOD](https://yod.az/)
 
