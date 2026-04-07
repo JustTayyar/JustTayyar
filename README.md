@@ -6,13 +6,14 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRzMnNoZWN6NG4yZXA1cTV5NWdrYjdwbThqNGhzaHN4YzZkbTJndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8N7zGjXp7tFwTjU1A/giphy.gif" width="40" alt="Moving Telescope" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="45" alt="Telescope" />
   &nbsp; 
   <a href="https://yod.az/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1500&color=00FFFF&center=false&vCenter=true&width=800&lines=I'm+currently+working+on+YOD;💡+Building+something+amazing+with+YOD...;🚀+Bringing+innovations+to+life...;🔥+Focus%3A+The+YOD+Project" alt="YOD Project Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1500&color=00FFFF&center=false&vCenter=true&width=800&lines=I%27m+currently+working+on+YOD;Building+something+amazing+with+YOD...;Bringing+innovations+to+life...;Focus%3A+The+YOD+Project" alt="YOD Project" />
   </a>
 </div>
 <br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
