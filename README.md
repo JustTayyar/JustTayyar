@@ -45,8 +45,7 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=TAYYAR&show_icons=true&theme=radical&text_color=00FFFF&bg_color=000000&hide_border=true&title_color=FFFFFF&icon_color=00FFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAYYAR&layout=compact&theme=radical&text_color=00FFFF&bg_color=000000&hide_border=true&title_color=FFFFFF&icon_color=00FFFF" alt="Top Languages" />
+
 
   <br><br>
 
