@@ -1,7 +1,10 @@
 <div align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=250&section=header&text=JustTayyar&fontSize=80&fontColor=000000&animation=twinkling&fontAlignY=40" alt="Futuristic Header" />
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55">
+</div>
+
 
 <h3 align="center"><a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=00FFFF&center=false&vCenter=true&width=1100&lines=I+am+a+Full-Stack+Developer+who+is+always+open+to+learning+from+the+World..." alt="Typing Text" />
@@ -23,10 +26,6 @@
 
   <br><br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=00FFFF&center=true&vCenter=true&width=500&lines=%3E+_Tech_Stack_&_Tools%3B%3E_Load_Arsenal()" alt="Tech Stack Header" />
-
-  <br><br>
-
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=00FFFF&center=true&vCenter=true&width=500&lines=%3E+_Tech_Stack_&_Tools%3B%3E_Load_Arsenal()" alt="Tech Stack Header" />
@@ -41,9 +40,7 @@
 
 </div>
 
-  <br><br><br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=400&lines=%3E_Analyzing_Contributions...;%3E_Activity_Core" alt="Activity Header" />
+  <br><br>
 
   <br>
 
