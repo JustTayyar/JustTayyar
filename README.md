@@ -63,3 +63,27 @@
 </div>
 
 <br><br>
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=00FFFF&center=true&vCenter=true&width=500&lines=%3E+_Tech_Stack_&_Tools%3B%3E_Load_Arsenal()" alt="Tech Stack Header" />
+  
+  <br>
+
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: -15px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" width="30" alt="Bouncing Arrow" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" width="30" alt="Bouncing Arrow" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" width="30" alt="Bouncing Arrow" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" width="30" alt="Bouncing Arrow" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" width="30" alt="Bouncing Arrow" />
+  </div>
+
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,php,laravel,mysql,git,github&theme=dark" alt="Skills Arsenal" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Jira-Project%20Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge" />
+
+</div>
